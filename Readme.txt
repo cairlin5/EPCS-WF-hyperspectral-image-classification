@@ -20,7 +20,7 @@ IEEE Transactions on Geoscience and Remote Sensing, vol. 54, no. 1, pp. 88-102, 
 [4] J. Li, J. Bioucas-Dias and A. Plaza. Hyperspectral Image Segmentation Using a New Bayesian Approach with Active Learning, 
 IEEE Transactions on Geoscience and Remote Sensing, vol. 49, no. 10, pp. 3947-3960, October 2011.
 -----------------------------------------------------------------------------------------------------------------------------
-Please run 'EPCSWF.m' for classification experiment. The Gabor-based classification methods including
+Please run 'EPCSWF_demo.m' for classification experiment. The Gabor-based classification methods including
 ReGF, MaGF, PGF, ReCS, MaCS, EPCS, and EPCS-WF are provided in the demo.
 
 Please pay attention to the folders including 'Dataset' and 'matlab functions'.
