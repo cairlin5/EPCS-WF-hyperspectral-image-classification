@@ -26,7 +26,7 @@ ReGF, MaGF, PGF, ReCS, MaCS, EPCS, and EPCS-WF are provided in the demo.
 Please pay attention to the folders including 'Dataset' and 'matlab functions'.
 Dataset：Indian Pines along with its ground truth data. The size of Indian Pines: 145 × 145 × 200 (after removing the noise band).
 matlab functions: contains the matlab code used in this program.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
 Here are the detail variables of the EPCSWF method shown in this demo:
 INPUT:
 1) p_list: the settings of phase offsets, e.g., [0, π/6, π/3, π/2], where four phases offesets are set in our case.
