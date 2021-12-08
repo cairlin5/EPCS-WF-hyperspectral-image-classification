@@ -1,7 +1,8 @@
 ﻿This code is developed by Runlin Cai. So that this code is distributed bounded by the terms and policies by Runlin Cai.
 If you have any questions, please feel free to contact Runlin Cai (cairlin5@mail2.sysu.edu.cn).
 The set of files contains the Matlab code for the experiments in the following paper:
-R. Cai, C. Liu and J. Li, 'Efficient Phase-induced Gabor Cube Selection and Weighted Fusion for Hyperspectral Image Classification'. Science China Technological Sciences, Accepted.
+R. Cai, C. Liu and J. Li, 'Efficient Phase-induced Gabor Cube Selection and Weighted Fusion for Hyperspectral Image Classification'. 
+Science China Technological Sciences, accepted.
 
 If you are using this code, please cite the following related references:
 (1) The code of EPCS-WF method is given by:
